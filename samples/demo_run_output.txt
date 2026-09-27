@@ -1,0 +1,11 @@
+=== OTP Generator & Verifier -- scripted demo ===
+Demo secret (Base32): JBSWY3DPEHPK3PXP
+Time step: 30s | OTP length: 6 digits
+Verification window: +/-1 step(s)
+
+[Generate] OTP at reference time: 098407
+
+[Verify]  Correct OTP submitted immediately  -> OTP VALID (matched at offset +0 time step).
+[Verify]  Same OTP submitted one step later  -> OTP VALID (matched at offset -1 time step).
+[Verify]  Same OTP submitted 5 steps later    -> OTP INVALID or expired.
+[Verify]  Random incorrect OTP '000000'       -> OTP INVALID or expired.
