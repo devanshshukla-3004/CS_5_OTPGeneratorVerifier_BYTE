@@ -114,4 +114,4 @@ CS_5_OTPGeneratorVerifier_BYTE/
 
 ## Author
 
-Devansh Shukla — AVIP 2026, Intern ID `arith63342`
+Devansh Shukla — AVIP 2026.
